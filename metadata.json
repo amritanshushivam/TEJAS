@@ -1,0 +1,6 @@
+{
+  "name": "TEJAS Decoder-Only LLM Lab",
+  "description": "A professional technical reference for the TEJAS decoder-only Large Language Model codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
